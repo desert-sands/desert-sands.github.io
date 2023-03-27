@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://desert-sands.github.io/sitemap.xml
